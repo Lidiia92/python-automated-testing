@@ -1,5 +1,4 @@
 from unittest import TestCase
-
 from post import Post
 
 
